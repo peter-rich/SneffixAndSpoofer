@@ -1,5 +1,5 @@
 # SneffixAndSpoofer
-##Zhanfu Yang, yang1676@purdue.edu
+## Zhanfu Yang, yang1676@purdue.edu
 
 ## Task 1
 ### Complie
