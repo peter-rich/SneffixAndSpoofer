@@ -1,7 +1,7 @@
 # SneffixAndSpoofer
 ##Zhanfu Yang, yang1676@purdue.edu
 
-##Task 1
+## Task 1
 ### Complie
 	gcc -Wall -o sniffex sniffex.c -lpcap
 
@@ -11,7 +11,7 @@
 				Enter the password.
 	
 
-##Task 2
+## Task 2
 ### Compile
 
 	gcc -o spoofer spoofer.c
@@ -30,7 +30,7 @@
 	Task2.b:   sudo tcpdump -XX icmp
 	Task2.c:   sudo tcpdump -eXX ether host 01:02:03:04:05:06
 
-##Task 3
+## Task 3
 ### Compilation
 	gcc -Wall -o sniffex-spoofer sniffex-spoofer.c -lpcap
 
